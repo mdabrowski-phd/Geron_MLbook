@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/mdabrowski/ML/Geron_UczenieMaszynowe/tensorflow/moj_gleboki_model_mnist.ckpt"
+all_model_checkpoint_paths: "/Users/mdabrowski/ML/Geron_UczenieMaszynowe/tensorflow/tmp/moj_gleboki_model_mnist"
+all_model_checkpoint_paths: "/Users/mdabrowski/ML/Geron_UczenieMaszynowe/tensorflow/moj_gleboki_model_mnist.ckpt"
